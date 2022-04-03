@@ -1,0 +1,23 @@
+SHA1 > Secure Hash Algorithm é um conjunto de funções projetadas pela 	NSA, a encriptação gera um conjunto de caracteres de 40 dig.
+	
+3 tipos completos do GIT > BLOBS, TREES, COMMITS
+
+BLOBS> SAO BOLHAS DADOS INICIAIS
+
+TREE > As arvores ela vao ser responsavel por montar toda estrutura dos 	arquivos.. 
+
+COMMIT >  O MAIS IMPORTANTE DE TODOS ele aponta para um TREES, AUTOR E 	PARA MENSAGEM.  esse objeto leva o nome do autor a data a hora de 	que foi criado.
+
+PRIMEIROS COMANDOS COM O GIT
+*ls > listar
+*ls -a > flag que mostra arquivos ocultos dentro da pasta
+*cd> entrar na pasta
+*Control+L > limpar tudo
+*mkdir > criar outra pasta
+*git init > inicializar o git
+*git add nome do arquivo > move arquivo para staged
+*git add *> pega tudo que foi modificado no diretorio de trabalho e 	direciona para o staged
+*git commit > envelopa esse arquivo e coloca ele em commit
+*git status > ajuda a monitorar os status dos arquivos
+
+-MARKDOWN > É UMA FORMA MAIS HUMANA QUE HTML
